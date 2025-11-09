@@ -1,0 +1,125 @@
+# Visual Studio 生成的文件和目录
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Dd]ebug/
+[Rr]elease/
+[Rr]elease_x64/
+[Dd]ebug_x64/
+x64/
+x86/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio 编译输出
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pch
+*.ipch
+*.res
+*.aps
+*.cache
+
+# Visual Studio 临时文件
+*.tmp
+*.temp
+*.log
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+# Visual Studio 项目文件（用户特定）
+*.vcxproj.user
+*.vcxproj.filters.user
+
+# 编译中间文件
+*.iobj
+*.ipdb
+*.bsc
+*.sbr
+
+# 预编译头文件
+*.pch
+*.gch
+
+# 链接器生成的文件
+*.map
+*.exp
+
+# 其他 Visual Studio 文件
+.vs/
+.vscode/
+*.VC.db
+*.VC.VC.opendb
+
+# 备份文件
+*.bak
+*.backup
+*.old
+*.orig
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志文件
+*.log
+*.txt.log
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Python 相关（如果有脚本）
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 文档生成（可选，如果不想忽略可以删除）
+# docs/_build/
+
+# 测试输出（如果有）
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# 代码分析结果
+*.sarif
+
+# 本地配置文件（如果有）
+config.local.*
+settings.local.*
+
+# 微信相关文件（如果不想提交）
+# WeChat*.exe
+# WeChatHelper*.dll
+
+# 其他
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
